@@ -15,6 +15,7 @@ categories = [
     "parsing",
     "value-formatting",
 ]
+description = "Human Readable file size formatting"
 
 [badges]
 
