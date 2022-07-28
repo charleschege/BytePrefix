@@ -1,4 +1,5 @@
 ## BytePrefix
+[![Rust](https://github.com/charleschege/BytePrefix/actions/workflows/rust.yml/badge.svg)](https://github.com/charleschege/BytePrefix/actions/workflows/rust.yml)
 
 A library to format bytes as specified by The NIST Reference on Constants, Units, and Uncertainty referenced at [Prefixes for Binary Multiples](https://web.archive.org/web/20070808000831/http://physics.nist.gov/cuu/Units/binary.html)
 
